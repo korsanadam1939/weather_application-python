@@ -19,7 +19,7 @@ def translate_to_turkish(english_word):
     return translation'''
 def butona_tiklandiginda():
     # API anahtarınızı buraya ekleyin
-    api_key = "f39b38a7fc574fc0e66fb98ea888bbf2"
+    api_key = "ENTER YOUR APİ KEY"
 
     # Hava durumu almak istediğiniz şehir adını burada belirtin
     city_name = entry1.get()
